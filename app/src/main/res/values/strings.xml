@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WXPictureExport</string>
+    <string name="accessibility_description">自动导出微信朋友圈信息</string>
 </resources>
